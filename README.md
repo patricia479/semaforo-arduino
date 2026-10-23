@@ -9,7 +9,7 @@ A atividade busca compreender o funcionamento de circuitos elétricos e a utiliz
 ## Link do projeto no Tinkercad
 https://www.tinkercad.com/things/4S9sPCiPomH-semaforo-com-arduino-unesp
 
-
+![Semáforo com Arduino](semaforo-arduino.png)
 ## Uso na escola 
 
 **Ano escolar:** 8º ano do Ensino Fundamental.
