@@ -1,4 +1,4 @@
-
+// Semaforo com Arduino: LEDs nos pinos 12, 11 e 10, com tempos programados.
 
 const int VERMELHO = 12;
 const int AMARELO = 11;
